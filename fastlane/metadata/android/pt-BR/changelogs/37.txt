@@ -1,0 +1,1 @@
+- Adicionado sistema de criptografia do backup em caso de Android Keystore corrompido ou indisponível.
