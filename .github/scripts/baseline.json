@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-13T01:19:40.0076230-03:00",
+  "repos": {
+    "DNSToggle": {
+      "baseCommit": "e23462f143a1934a8ea4c1aa12395d0e8cf30d07",
+      "upstreamRef": "upstream/main",
+      "updatedAt": "2026-11-13T01:19:40.0077008-03:00",
+      "note": "Baseline fixada para o workflow single-repo"
+    }
+  }
+}
